@@ -1,30 +1,60 @@
-HumHub - Putting People and Pieces together
-===========================
+TejiendoPaz – Redes que Construyen Comunidad  
+============================================
 
-[![Test Status](https://github.com/humhub/humhub/workflows/PHP%20Codeception%20Tests/badge.svg)](https://github.com/humhub/humhub/actions)
-[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
-[![CLA assistant](https://cla-assistant.io/readme/badge/humhub/humhub)](https://cla-assistant.io/humhub/humhub)
+[![Powered by Yii](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](https://www.yiiframework.com/)
 
-#### **HumHub is an intuitive to use and modular designed open-source software**, used primarily as social network, knowledge database, intranet or information and communication platform.
+**TejiendoPaz** is a customized and community-driven version of the open-source social networking platform originally known as **HumHub**, built to support collaboration, communication, and knowledge-sharing in community, educational, and peacebuilding contexts.
 
-**The software is written in PHP** and is best described by dividing into 4 main parts: **User, Spaces, Content and Modules.**
+> This project is a modified version of [HumHub](https://github.com/humhub/humhub), originally developed and maintained by the HumHub team.  
+> It is licensed under the GNU Affero General Public License v3 (AGPLv3).  
+>  
+> Source code of this modified version is available in this repository, as required by AGPLv3.
 
-- **User:** All users have their own customisable profile (including name, profile picture, cover photo and personal information) and can follow and interact with each other. If wished and enabled, users can create own content, comment posts and join Spaces. Profile fields, permissions and all settings can be defined individually by the network operator (administrator).
+---
 
-- **Spaces:** Rooms or groups for any projects, departments, events or other needs. Network operators can create as many Spaces as needed and automatically map users into the desired Spaces. HumHub comes with an advanced permission and notification system (including email summaries).
+## 📌 About TejiendoPaz
 
-- **Content:** Users can create content of all kinds (posts, wiki pages, photo/video, schedule appointments, create events or tasks) depending on their permission and share it with other members in their Space. There is a multi-level comment function, versatile collaboration options and also features to report inappropriate posts and content. All Content, Spaces and Members can be easily found through various and individually definable filter and search functions, Content can be edited, deleted and archived.
+**TejiendoPaz** is an intuitive and modular open-source platform tailored for building social networks, intranets, knowledge systems, or communication hubs within communities.
 
-- **Modules:** The main software is designed in a modular way and can be extended by approximately 80 modules. These can easily be added to by installation and activation. This gives operators the possibility to set up and configure the network according to their needs and individual wishes. Among the modules are Advanced LDAP, RESTful API, Mass User Import, Calendar, Wiki, OnlyOffice, JWT SSO, Legal Tools, Translation Manager, Custom Themes and Custom Pages, Tasks, Gallery, News, Polls and Mail for Direct Messages.
+Like HumHub, the platform centers around four core components:
 
-#### With HumHub, we help people around the world to connect, stay informed, display and share content of various kinds, exchange files and communicate and collaborate with each other.
+- **Users:** Each user has a customizable profile and can interact, post, and join Spaces.
+- **Spaces:** Flexible group spaces for projects, departments, events, or thematic areas.
+- **Content:** Posts, events, wikis, tasks, multimedia, and more—sharable and searchable.
+- **Modules:** Extensible via community modules or custom plugins (e.g., LDAP, Calendar, API, OnlyOffice, and more).
 
-The software is responsive designed and works great on different devices, including smartphones and tablets. **HumHub is available in over 30 languages and is used in over 4,500 organizations worldwide.**
+### 🔧 Customizations
 
-More information about HumHub can be found here:
+This version has been renamed and modified to reflect the values and needs of grassroots peacebuilding initiatives. It may include adapted branding, user interface enhancements, and pre-configured modules suited to civic and educational use.
 
--	[Homepage & Demo](http://www.humhub.org/)
--	[Documentation & Class Reference](http://docs.humhub.org/)
--	[Community](http://community.humhub.com/)
--	[Licence](https://www.humhub.com/licences)
+---
 
+## 🌐 Features
+
+- Fully responsive for desktops, tablets, and smartphones
+- Multilingual (available in 30+ languages)
+- Modular and extensible (over 80 available modules)
+- Powerful search and notification systems
+- Role-based permissions and user management
+- Supports direct messages, tasks, events, polls, wikis, and more
+
+---
+
+## 📜 License
+
+This project is licensed under the [GNU Affero General Public License v3 (AGPLv3)](https://www.gnu.org/licenses/agpl-3.0.html).  
+You are free to use, modify, and share it under the same license. If you deploy it on a network, you must make the source code available to users.
+
+> © 2025 Renzo Uribe  
+> This is a modified version of the software originally created by the HumHub team.
+
+---
+
+## 🔗 Resources (from original HumHub project)
+
+While TejiendoPaz is an independent fork, the original project remains an excellent reference:
+
+- [HumHub Homepage & Demo](http://www.humhub.org/)
+- [HumHub Documentation](http://docs.humhub.org/)
+- [HumHub Community](http://community.humhub.com/)
+- [HumHub License Info](https://www.humhub.com/licences)
